@@ -27,7 +27,6 @@ Solar Irradiance (kWh/m²/day)
 × Panel Efficiency
 × System Loss Factor (0.75)
 
-
 > ⚠️ Values are near-accurate approximations suitable for academic and research purposes.
 
 ---
